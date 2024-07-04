@@ -1,0 +1,67 @@
+{
+    "classes": [
+        {
+            "className": "AudioControler",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "val",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "incrementVolume",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 0,
+                    "name": "volumLevel",
+                    "notify": "volumLevelChanged",
+                    "read": "volumLevel",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setVolumLevel"
+                }
+            ],
+            "qualifiedClassName": "AudioControler",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "volumLevelChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newVolumLevel",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "setVolumLevel",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "audiocontroler.h",
+    "outputRevision": 68
+}

@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="/TestlaInfortament/">
+    <file alias="Main.qml">/home/quan/Documents/ex_qt/TestlaInfortament/Main.qml</file>
+    <file alias="ui/BottomBar/BottomBar.qml">/home/quan/Documents/ex_qt/TestlaInfortament/ui/BottomBar/BottomBar.qml</file>
+    <file alias="ui/RightScreen/RightScreen.qml">/home/quan/Documents/ex_qt/TestlaInfortament/ui/RightScreen/RightScreen.qml</file>
+    <file alias="ui/LeftScreen/LeftScreen.qml">/home/quan/Documents/ex_qt/TestlaInfortament/ui/LeftScreen/LeftScreen.qml</file>
+    <file alias="ui/RightScreen/NavigationSearchBox.qml">/home/quan/Documents/ex_qt/TestlaInfortament/ui/RightScreen/NavigationSearchBox.qml</file>
+    <file alias="ui/BottomBar/HVAComponent.qml">/home/quan/Documents/ex_qt/TestlaInfortament/ui/BottomBar/HVAComponent.qml</file>
+    <file alias="ui/BottomBar/VolumControlerComponent.qml">/home/quan/Documents/ex_qt/TestlaInfortament/ui/BottomBar/VolumControlerComponent.qml</file>
+    <file alias="ui/assets/carRender.jpg">/home/quan/Documents/ex_qt/TestlaInfortament/ui/assets/carRender.jpg</file>
+    <file alias="assets.qrc">/home/quan/Documents/ex_qt/TestlaInfortament/assets.qrc</file>
+  </qresource>
+</RCC>
+

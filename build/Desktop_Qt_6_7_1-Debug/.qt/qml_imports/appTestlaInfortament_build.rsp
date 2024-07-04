@@ -1,0 +1,14 @@
+-rootPath
+/home/quan/Documents/ex_qt/TestlaInfortament
+-cmake-output
+-output-file
+/home/quan/Documents/ex_qt/TestlaInfortament/build/Desktop_Qt_6_7_1-Debug/.qt/qml_imports/appTestlaInfortament_build.cmake
+-importPath
+/home/quan/Documents/ex_qt/TestlaInfortament/build/Desktop_Qt_6_7_1-Debug/TestlaInfortament
+-importPath
+/home/quan/Documents/ex_qt/TestlaInfortament/build/Desktop_Qt_6_7_1-Debug
+-importPath
+/home/quan/Qt/6.7.1/gcc_64/./qml
+-qrcFiles
+/home/quan/Documents/ex_qt/TestlaInfortament/build/Desktop_Qt_6_7_1-Debug/.qt/rcc/qmake_TestlaInfortament.qrc
+/home/quan/Documents/ex_qt/TestlaInfortament/build/Desktop_Qt_6_7_1-Debug/.qt/rcc/appTestlaInfortament_raw_qml_0.qrc

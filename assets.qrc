@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/assets/carRender.jpg</file>
+        <file>ui/assets/lock.png</file>
+        <file>ui/assets/unlock.png</file>
+        <file>ui/assets/search.png</file>
+        <file>ui/assets/carIcon.png</file>
+        <file>ui/assets/high-volume.png</file>
+        <file>ui/assets/medium-volume.png</file>
+        <file>ui/assets/mute.png</file>
+    </qresource>
+</RCC>

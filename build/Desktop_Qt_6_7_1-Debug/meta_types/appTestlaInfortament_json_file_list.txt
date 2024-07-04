@@ -1,0 +1,3 @@
+/home/quan/Documents/ex_qt/TestlaInfortament/build/Desktop_Qt_6_7_1-Debug/appTestlaInfortament_autogen/include/../XUX5SSWLF5/moc_audiocontroler.cpp.json
+/home/quan/Documents/ex_qt/TestlaInfortament/build/Desktop_Qt_6_7_1-Debug/appTestlaInfortament_autogen/include/../XUX5SSWLF5/moc_hvachandler.cpp.json
+/home/quan/Documents/ex_qt/TestlaInfortament/build/Desktop_Qt_6_7_1-Debug/appTestlaInfortament_autogen/include/../XUX5SSWLF5/moc_system.cpp.json

@@ -1,0 +1,10 @@
+-I
+/home/quan/Documents/ex_qt/TestlaInfortament/build/Desktop_Qt_6_7_1-Debug
+-I
+/home/quan/Qt/6.7.1/gcc_64/./qml
+--resource
+/home/quan/Documents/ex_qt/TestlaInfortament/build/Desktop_Qt_6_7_1-Debug/.qt/rcc/qmake_TestlaInfortament.qrc
+--resource
+/home/quan/Documents/ex_qt/TestlaInfortament/build/Desktop_Qt_6_7_1-Debug/.qt/rcc/appTestlaInfortament_raw_qml_0.qrc
+--module
+TestlaInfortament

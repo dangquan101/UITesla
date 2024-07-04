@@ -1,0 +1,29 @@
+{
+	"BUILD_DIR" : "/home/quan/Documents/ex_qt/TestlaInfortament/build/Desktop_Qt_6_7_1-Debug/appTestlaInfortament_autogen",
+	"CMAKE_BINARY_DIR" : "/home/quan/Documents/ex_qt/TestlaInfortament/build/Desktop_Qt_6_7_1-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/quan/Documents/ex_qt/TestlaInfortament/build/Desktop_Qt_6_7_1-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/quan/Documents/ex_qt/TestlaInfortament",
+	"CMAKE_SOURCE_DIR" : "/home/quan/Documents/ex_qt/TestlaInfortament",
+	"INCLUDE_DIR" : "/home/quan/Documents/ex_qt/TestlaInfortament/build/Desktop_Qt_6_7_1-Debug/appTestlaInfortament_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/quan/Documents/ex_qt/TestlaInfortament/ui/assets/high-volume.png",
+		"/home/quan/Documents/ex_qt/TestlaInfortament/ui/assets/unlock.png",
+		"/home/quan/Documents/ex_qt/TestlaInfortament/ui/assets/search.png",
+		"/home/quan/Documents/ex_qt/TestlaInfortament/ui/assets/carRender.jpg",
+		"/home/quan/Documents/ex_qt/TestlaInfortament/ui/assets/medium-volume.png",
+		"/home/quan/Documents/ex_qt/TestlaInfortament/ui/assets/lock.png",
+		"/home/quan/Documents/ex_qt/TestlaInfortament/ui/assets/carIcon.png",
+		"/home/quan/Documents/ex_qt/TestlaInfortament/ui/assets/mute.png"
+	],
+	"LOCK_FILE" : "/home/quan/Documents/ex_qt/TestlaInfortament/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/appTestlaInfortament_autogen.dir/AutoRcc_assets_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "assets" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_assets.cpp",
+	"RCC_EXECUTABLE" : "/home/quan/Qt/6.7.1/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/quan/Documents/ex_qt/TestlaInfortament/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/appTestlaInfortament_autogen.dir/AutoRcc_assets_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/quan/Documents/ex_qt/TestlaInfortament/assets.qrc",
+	"VERBOSITY" : 0
+}

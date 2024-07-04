@@ -1,0 +1,11 @@
+--resource
+/home/quan/Documents/ex_qt/TestlaInfortament/build/Desktop_Qt_6_7_1-Debug/.qt/rcc/qmake_TestlaInfortament.qrc
+--resource
+/home/quan/Documents/ex_qt/TestlaInfortament/build/Desktop_Qt_6_7_1-Debug/.qt/rcc/appTestlaInfortament_raw_qml_0.qrc
+/TestlaInfortament/Main.qml
+/TestlaInfortament/ui/BottomBar/BottomBar.qml
+/TestlaInfortament/ui/RightScreen/RightScreen.qml
+/TestlaInfortament/ui/LeftScreen/LeftScreen.qml
+/TestlaInfortament/ui/RightScreen/NavigationSearchBox.qml
+/TestlaInfortament/ui/BottomBar/HVAComponent.qml
+/TestlaInfortament/ui/BottomBar/VolumControlerComponent.qml

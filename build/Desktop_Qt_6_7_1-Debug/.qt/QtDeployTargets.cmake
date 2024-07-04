@@ -1,0 +1,1 @@
+set(__QT_DEPLOY_TARGET_appTestlaInfortament_FILE /home/quan/Documents/ex_qt/TestlaInfortament/build/Desktop_Qt_6_7_1-Debug/appTestlaInfortament)

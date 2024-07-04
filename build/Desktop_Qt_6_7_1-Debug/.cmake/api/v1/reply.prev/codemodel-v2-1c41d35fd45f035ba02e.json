@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-56378c27cba924c35ab4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TestlaInfortament",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-328989b74036be3cf2da.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-3d9a669fb1c153ae7279.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-64b15f1aa74e9e67c87c.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-ad08c4a402272d2aa8c6.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTestlaInfortament::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTestlaInfortament-Debug-77f3a30a71b08a221a0b.json",
+					"name" : "appTestlaInfortament",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTestlaInfortament_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTestlaInfortament_autogen-Debug-93f8e20bc3907533afb1.json",
+					"name" : "appTestlaInfortament_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTestlaInfortament_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTestlaInfortament_autogen_timestamp_deps-Debug-dbb4763198e2ac40fc65.json",
+					"name" : "appTestlaInfortament_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTestlaInfortament_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTestlaInfortament_qmlimportscan-Debug-d7e313c1c6b5b074175b.json",
+					"name" : "appTestlaInfortament_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTestlaInfortament_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTestlaInfortament_qmllint-Debug-2040afd68c85a951e3eb.json",
+					"name" : "appTestlaInfortament_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTestlaInfortament_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTestlaInfortament_qmllint_json-Debug-5c78b2c1e4a5e73bccd4.json",
+					"name" : "appTestlaInfortament_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTestlaInfortament_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTestlaInfortament_qmllint_module-Debug-495eeabe05591e4e7ff4.json",
+					"name" : "appTestlaInfortament_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTestlaInfortament_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTestlaInfortament_qmltyperegistration-Debug-3b59f3293f1133d68d49.json",
+					"name" : "appTestlaInfortament_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTestlaInfortament_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTestlaInfortament_tooling-Debug-59cb879b12651cd8ce79.json",
+					"name" : "appTestlaInfortament_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/quan/Documents/ex_qt/TestlaInfortament/build/Desktop_Qt_6_7_1-Debug",
+		"source" : "/home/quan/Documents/ex_qt/TestlaInfortament"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

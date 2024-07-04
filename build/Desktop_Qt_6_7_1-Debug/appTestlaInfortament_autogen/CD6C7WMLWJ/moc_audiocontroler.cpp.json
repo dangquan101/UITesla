@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "AudioControler",
+            "object": true,
+            "qualifiedClassName": "AudioControler",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "audiocontroler.h",
+    "outputRevision": 68
+}
